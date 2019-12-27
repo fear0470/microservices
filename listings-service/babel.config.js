@@ -9,7 +9,7 @@ module.exports = {
             }
         ]
     ],
-    presents: [
+    presets: [
         [
             "@babel/preset-env",
             {
